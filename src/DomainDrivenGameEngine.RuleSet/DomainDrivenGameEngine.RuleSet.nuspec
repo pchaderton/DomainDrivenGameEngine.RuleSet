@@ -3,7 +3,7 @@
   <metadata>
     <id>DomainDrivenGameEngine.RuleSet</id>
 	<description>A set of StyleCop rules to utilize across any DomainDrivenGameEngine.* projects to ensure consistent code quality.</description>
-    <version>0.1.0</version>
+    <version>0.1.1</version>
 	<authors>Preston Chaderton</authors>
 	<company>Preston Chaderton</company>
 	<repository>
