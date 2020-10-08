@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>DomainDrivenGameEngine.RuleSet</id>
+	<description>A set of StyleCop rules to utilize across any DomainDrivenGameEngine.* projects to ensure consistent code quality.</description>
+    <version>0.1.0</version>
+	<authors>Preston Chaderton</authors>
+	<company>Preston Chaderton</company>
+	<repositoryurl>https://github.com/pchaderton/DomainDrivenGameEngine.RuleSet</repositoryurl>
+	<repositoryType>git</repositoryType>
+    <dependencies>
+      <dependency id="StyleCop.Analyzers" version="1.1.118" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="stylecop.json" target="" />
+    <file src="DomainDrivenGameEngine.RuleSet.ruleset" target="" />
+    <file src="DomainDrivenGameEngine.RuleSet.props" target="build" />
+  </files>
+</package>
